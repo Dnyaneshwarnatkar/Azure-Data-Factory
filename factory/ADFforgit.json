@@ -1,0 +1,9 @@
+{
+	"name": "ADFforgit",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2188d349-5892-4909-b20d-85dcd09c2119",
+		"tenantId": "8cc253b3-66ac-4ad4-bacd-a6fc9557f943"
+	}
+}
